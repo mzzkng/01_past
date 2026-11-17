@@ -1,0 +1,4 @@
+[submodule ".vscode"]
+	path = .vscode
+	url = git@github.com:mzzkng/.vscode.git
+	branch = go
